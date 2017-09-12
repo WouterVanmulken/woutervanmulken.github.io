@@ -1,2 +1,2 @@
-# woutervanmulken.github.io
-redirect for github website
+# WouterVanmulken.github.io
+Redirects to https://wouterv.com
